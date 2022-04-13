@@ -1,0 +1,20 @@
+{
+  "name": "BTC-Chain",
+  "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
+  "timestamp": 1600222146000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TAjuAs2WWtyR6mQrpaxHYCpvVYaC2KwGAK",
+      "name": "BitCoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
